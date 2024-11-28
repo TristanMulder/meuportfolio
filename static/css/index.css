@@ -1,0 +1,59 @@
+.bgnav {
+    background-color: #DB373A !important;
+
+}
+
+.nav-link {
+    color: #FFFFFF !important;
+}
+
+.bgopcao {
+    background-color: #FFFFFF !important;
+    color: black !important;
+    margin: 0 5px 0 5px;
+}
+
+
+.bg-body-tertiary {
+    background-color: #DB373A !important;
+    color: #FFFFFF !important;
+}
+
+body {
+    background-color: #3c3c3c;
+}
+
+.cordafonte {
+    color: #FFFFFF;
+}
+
+.tamanhoimagem {
+    width: 70%;
+}
+
+.tamanhoimagem2 {
+    width: 50%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.ajuste{
+    text-decoration:none; 
+   font-size: 15pt;
+}
+.tamanhoiconredes {
+    width: 38px !important;
+    height: 38px !important;
+
+}
+.space{
+    padding: top 15px; ;
+    padding-bottom: 15px;
+}
+.tamanhoiconredes2{
+    width: 38px !important;
+    height: 38px !important;
+}
+.alinhamento{
+    padding-left: px;
+}
