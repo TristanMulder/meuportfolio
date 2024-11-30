@@ -51,9 +51,21 @@ body {
     padding-bottom: 15px;
 }
 .tamanhoiconredes2{
-    width: 38px !important;
-    height: 38px !important;
+    width: 45px !important;
+    height: 45px !important;
 }
 .alinhamento{
-    padding-left: px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
+.alinhamento2{
+    text-align: center;
+}
+
+.alturapagina{
+    min-height: 46rem;
 }
